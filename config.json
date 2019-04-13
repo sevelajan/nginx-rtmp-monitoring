@@ -9,7 +9,7 @@
   "session_secret_key":"change_me_random",
   "username":"admin",
   "password":"123123",
-  "language":"en",
+  "language":"cs_CZ",
   "template":"default",
   "login_template":"login",
   "version":"1.0.2"
